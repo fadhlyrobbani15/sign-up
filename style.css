@@ -12,11 +12,11 @@ ul {
 }
 ul li{
     padding: 5px;
-    background: #fff;
+    background: rgb(29, 21, 21);
     margin: 5px;
 }
 header{
-    background: #f4f4f4;
+    background: #d4d382;
     padding: 16px;
     text-align: center;
 }
@@ -28,7 +28,7 @@ header{
 }
 #my-form{
     padding: 32px;
-    background: #f4f4f4;
+    background: #c4ee76;
 }
 #my-form label{
     display: block;
